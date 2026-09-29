@@ -1,0 +1,87 @@
+[*] Target identified: Processing thread with 'Sylvia Snazzy'
+[DEBUG] Dialog HTML: <div class="x9f619 xng8ra x1nb4dca x1q0q8m5 xso031l xh7rcd0 x17smslp"><div class="x6s0dn4x9f619 x78zum5 x5yr21d xv54qhq xf7dkkf xl56j7k"><h2 dir="auto" class="html-h2 xdj266r x14z9mp xat24cr x1lziwakxexx8yu xyri2b x18d9i69 x1c1uobl x1vvkbs x1heor9g x1qlqyl8 x1pd3egz x1a2a7pz x193iq5w xeuugli" tabindex="-1"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xtoi2st xw06pyt x1603h9y x1u7k74 x1xlr1w8 xzsf02u" dir="auto"><span class="x1lliihq x6ikm8r x10wlt62 x1n2onr6 xlyipyv xuxw1ft x1120s5i">Delete chat</span></span></h2></div></div><div class="xdg88n9 x10l6tqk x1tk7jg1 x1vjfegm"><div aria-label="Close" class="x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1ypdohk xdl72j9 x2lah0s x3ct3a4 xdj2
+[DEBUG] Found 5 candidate elements in dialog
+[DEBUG] Candidate 0: text='' aria-label='Close'
+[DEBUG] Candidate 1: text='' aria-label='Delete Chat'
+[DEBUG] Candidate 2: text='Cancel' aria-label='Cancel'
+[DEBUG] Candidate 3: text='Delete Chat' aria-label='Delete Chat'
+[DEBUG] Candidate 4: text='' aria-label='Cancel'
+[-] Error interacting with thread loop: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role='dialog'] button, div[role='dialog'] [role='button'], div[role='dialog'] a").nth(1)
+    - locator resolved to <div role="button" tabindex="-1" aria-hidden="true" aria-disabled="true" aria-label="Delete Chat" class="x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1h6gzvc x1fmog5m xu25z0z x140muxe xo1y3bh x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    30 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+  - element was detached from the DOM, retrying
+
+[*] Refreshing inbox context page structure to resolve stalls...
+[*] Target identified: Processing thread with 'Cyntia Kwamboka'
+[DEBUG] Dialog HTML: <div class="x9f619 xng8ra x1nb4dca x1q0q8m5 xso031l xh7rcd0 x17smslp"><div class="x6s0dn4x9f619 x78zum5 x5yr21d xv54qhq xf7dkkf xl56j7k"><h2 dir="auto" class="html-h2 xdj266r x14z9mp xat24cr x1lziwakxexx8yu xyri2b x18d9i69 x1c1uobl x1vvkbs x1heor9g x1qlqyl8 x1pd3egz x1a2a7pz x193iq5w xeuugli" tabindex="-1"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xtoi2st xw06pyt x1603h9y x1u7k74 x1xlr1w8 xzsf02u" dir="auto"><span class="x1lliihq x6ikm8r x10wlt62 x1n2onr6 xlyipyv xuxw1ft x1120s5i">Delete chat</span></span></h2></div></div><div class="xdg88n9 x10l6tqk x1tk7jg1 x1vjfegm"><div aria-label="Close" class="x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1ypdohk xdl72j9 x2lah0s x3ct3a4 xdj2
+[DEBUG] Found 5 candidate elements in dialog
+[DEBUG] Candidate 0: text='' aria-label='Close'
+[DEBUG] Candidate 1: text='' aria-label='Delete Chat'
+[DEBUG] Candidate 2: text='Cancel' aria-label='Cancel'
+[DEBUG] Candidate 3: text='Delete Chat' aria-label='Delete Chat'
+[DEBUG] Candidate 4: text='' aria-label='Cancel'
+[-] Error interacting with thread loop: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role='dialog'] button, div[role='dialog'] [role='button'], div[role='dialog'] a").nth(1)
+    - locator resolved to <div role="button" tabindex="-1" aria-hidden="true" aria-disabled="true" aria-label="Delete Chat" class="x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1h6gzvc x1fmog5m xu25z0z x140muxe xo1y3bh x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+[*] Refreshing inbox context page structure to resolve stalls...
+[*] Target identified: Processing thread with 'Cyntia Kwamboka'
+[DEBUG] Dialog HTML: <div class="x9f619 xng8ra x1nb4dca x1q0q8m5 xso031l xh7rcd0 x17smslp"><div class="x6s0dn4x9f619 x78zum5 x5yr21d xv54qhq xf7dkkf xl56j7k"><h2 dir="auto" class="html-h2 xdj266r x14z9mp xat24cr x1lziwakxexx8yu xyri2b x18d9i69 x1c1uobl x1vvkbs x1heor9g x1qlqyl8 x1pd3egz x1a2a7pz x193iq5w xeuugli" tabindex="-1"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xtoi2st xw06pyt x1603h9y x1u7k74 x1xlr1w8 xzsf02u" dir="auto"><span class="x1lliihq x6ikm8r x10wlt62 x1n2onr6 xlyipyv xuxw1ft x1120s5i">Delete chat</span></span></h2></div></div><div class="xdg88n9 x10l6tqk x1tk7jg1 x1vjfegm"><div aria-label="Close" class="x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1ypdohk xdl72j9 x2lah0s x3ct3a4 xdj2
+[DEBUG] Found 5 candidate elements in dialog
+[DEBUG] Candidate 0: text='' aria-label='Close'
+[DEBUG] Candidate 1: text='' aria-label='Delete Chat'
+[DEBUG] Candidate 2: text='Cancel' aria-label='Cancel'
+[DEBUG] Candidate 3: text='Delete Chat' aria-label='Delete Chat'
+[DEBUG] Candidate 4: text='' aria-label='Cancel'
+[-] Error interacting with thread loop: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role='dialog'] button, div[role='dialog'] [role='button'], div[role='dialog'] a").nth(1)
+    - locator resolved to <div role="button" tabindex="-1" aria-hidden="true" aria-disabled="true" aria-label="Delete Chat" class="x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1h6gzvc x1fmog5m xu25z0z x140muxe xo1y3bh x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+[*] Refreshing inbox context page structure to resolve stalls...
+[*] Target identified: Processing thread with 'Cyntia Kwamboka'
+[-] 'Delete chat' menu option not found. Attempting to skip or archive...
+[=] Session wrapped up. Total chat threads removed: 0
+PS C:\Users\wenbu\Documents\facebook messenger> 
